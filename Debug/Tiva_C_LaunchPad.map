@@ -1,0 +1,1149 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                              ./src/main.o (GPIOPinTypeUART)
+/home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o) (IntRegister)
+/home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o (SysCtlPeripheralPresent)
+/home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o (UARTEnable)
+/home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                              ./src/main.o (itoa)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o) (__utoa)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Allocating common symbols
+Common symbol       size              file
+
+stoksu              0x14              ./src/main.o
+but5                0x4               ./src/main.o
+gecici              0x4               ./src/main.o
+yedekpara           0x4               ./src/main.o
+but1                0x4               ./src/main.o
+urunler1            0xa0              ./src/main.o
+but2                0x4               ./src/main.o
+bas2                0x32              ./src/main.o
+stokcay             0x14              ./src/main.o
+but6                0x4               ./src/main.o
+stokcik             0x14              ./src/main.o
+but4                0x4               ./src/main.o
+bas1                0x32              ./src/main.o
+stokbis             0x14              ./src/main.o
+stokkahve           0x14              ./src/main.o
+bas4                0x32              ./src/main.o
+but3                0x4               ./src/main.o
+bas3                0x32              ./src/main.o
+ran                 0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .text          0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_line    0x0000000000000000       0x7e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_info    0x0000000000000000       0xa5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .bss.solbas    0x0000000000000000        0x4 ./src/main.o
+ .bss.sagbas    0x0000000000000000        0x4 ./src/main.o
+ .data.as       0x0000000000000000        0x4 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .text          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .data          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .bss           0x0000000000000000        0x0 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000      0x880 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x22 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x87 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x44 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0xfd ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x5e ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000      0x1df ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0x67 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .data          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .bss           0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_pcHex
+                0x0000000000000000        0x4 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTgets
+                0x0000000000000000       0xdc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .text.UARTgetc
+                0x0000000000000000       0x1c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .bss.bLastWasCR.4544
+                0x0000000000000000        0x1 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x880 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x22 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x22 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x87 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x44 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xfd ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x5e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x1df ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x67 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x17a ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .group         0x0000000000000000        0x8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .data          0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .bss           0x0000000000000000        0x0 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.tinymt32_next_state
+                0x0000000000000000       0xa0 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.ini_func1
+                0x0000000000000000       0x28 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.ini_func2
+                0x0000000000000000       0x28 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.period_certification
+                0x0000000000000000       0x50 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.tinymt32_init
+                0x0000000000000000       0xa8 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text.tinymt32_init_by_array
+                0x0000000000000000      0x464 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_info    0x0000000000000000      0x2c3 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_abbrev  0x0000000000000000      0x116 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_ranges  0x0000000000000000       0x38 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0xbe ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000      0x880 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x22 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x87 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x44 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0xfd ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x5e ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000      0x1df ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x52 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x35 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x82 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000      0x45d ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_macro   0x0000000000000000       0x28 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_line    0x0000000000000000      0x331 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_str     0x0000000000000000     0x480e ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .comment       0x0000000000000000       0x2c ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .debug_frame   0x0000000000000000      0x100 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .ARM.attributes
+                0x0000000000000000       0x39 ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+ .text          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text._GPIOIntNumberGet
+                0x0000000000000000       0x48 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeGet
+                0x0000000000000000       0x24 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntTypeSet
+                0x0000000000000000       0x5a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntTypeGet
+                0x0000000000000000       0x4a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPadConfigGet
+                0x0000000000000000       0xc4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntEnable
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntDisable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntStatus
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntClear
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntRegister
+                0x0000000000000000       0x1a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntUnregister
+                0x0000000000000000       0x16 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntRegisterPin
+                0x0000000000000000       0x1e /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntUnregisterPin
+                0x0000000000000000       0x1a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinRead
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinWrite
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeADC
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeCAN
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeComparator
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeComparatorOutput
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeDIVSCLK
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEPI
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetLED
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetMII
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOInput
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutput
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutputOD
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2C
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2CSCL
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeLCD
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeOneWire
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypePWM
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeQEI
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeSSI
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeTimer
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeTrace
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBAnalog
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBDigital
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeWakeHigh
+                0x0000000000000000       0x1e /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeWakeLow
+                0x0000000000000000       0x1e /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinWakeStatus
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODMATriggerEnable
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODMATriggerDisable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOADCTriggerEnable
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOADCTriggerDisable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x0000000000000000       0xd8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x0000000000000000       0xc0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x0000000000000000        0x2 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterDisable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntRegister
+                0x0000000000000000       0x34 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntUnregister
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x0000000000000000       0x24 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPrioritySet
+                0x0000000000000000       0x2c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGet
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntEnable
+                0x0000000000000000       0x60 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntDisable
+                0x0000000000000000       0x60 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntIsEnabled
+                0x0000000000000000       0x64 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendSet
+                0x0000000000000000       0x50 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendClear
+                0x0000000000000000       0x40 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x0000000000000000        0x4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x0000000000000000        0x4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntTrigger
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x0000000000000000       0x20 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ vtable         0x0000000000000000      0x400 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x0000000000000000       0x9c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x0000000000000000       0x71 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x0000000000000000       0x24 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x0000000000000000       0x3c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x0000000000000000       0x38 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x0000000000000000       0x26 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReset
+                0x0000000000000000       0x3a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000000000       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x0000000000000000       0x48 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x0000000000000000       0x12 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepPowerSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlReset
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleep
+                0x0000000000000000        0x4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x0000000000000000       0x20 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000000000       0x48 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x0000000000000000      0x248 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000000000       0x60 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x0000000000000000       0x14 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x0000000000000000       0x18 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000000000       0x18 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000000000       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlVCOGet
+                0x0000000000000000       0x78 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x0000000000000000      0x1b0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x0000000000000000       0x30 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text._UARTIntNumberGet
+                0x0000000000000000       0x44 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeGet
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelSet
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelGet
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTConfigGetExpClk
+                0x0000000000000000       0x28 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOEnable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFODisable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTEnableSIR
+                0x0000000000000000       0x12 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDisableSIR
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardEnable
+                0x0000000000000000       0x16 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardDisable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlClear
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlGet
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemStatusGet
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlGet
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeSet
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeGet
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharsAvail
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSpaceAvail
+                0x0000000000000000        0xc /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGetNonBlocking
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGet
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharPutNonBlocking
+                0x0000000000000000       0x10 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBreakCtl
+                0x0000000000000000       0x16 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBusy
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntRegister
+                0x0000000000000000       0x1a /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntUnregister
+                0x0000000000000000       0x16 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntEnable
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntDisable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntStatus
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntClear
+                0x0000000000000000        0x4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMAEnable
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMADisable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorGet
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorClear
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceSet
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceGet
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitEnable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitDisable
+                0x0000000000000000        0xe /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSet
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSend
+                0x0000000000000000       0x2c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTLoopbackEnable
+                0x0000000000000000        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMap
+                0x0000000000000000       0x40 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x0000000000000000       0x40 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000000000000        0x0 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsid
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUprimask
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsie
+                0x0000000000000000        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUwfi   0x0000000000000000        0x4 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriSet
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriGet
+                0x0000000000000000        0x6 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x0000000000000000       0x71 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000000000000000       0x3b /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000       0xfe /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xaa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x21a /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x8de /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1d6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x162 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x5b7 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000       0xfa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xbd /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x5c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x212 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000      0x430 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x0000000000000000        0x2 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x89b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x180 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000       0xe9 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x5ae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x110 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xba /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000000000       0xae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x23c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .text          0x0000000000000000       0x9c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_info    0x0000000000000000      0x11e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000000      0x1ae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_line    0x0000000000000000      0x111 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_str     0x0000000000000000      0x1f1 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x92e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x20f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x197 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x184 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x5ef /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xd8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text.startup  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x9a5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x270 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x17b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x1b0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x60e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD ./src/main.o
+LOAD ./src/startup_gcc.o
+LOAD ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+LOAD ./SW-EK-TM4C123GXL-2.1.4.178/driverlib/tinymt32.o
+LOAD /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+.text           0x0000000000000000     0x2454
+                0x0000000000000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x26c ./src/startup_gcc.o
+                0x0000000000000000                g_pfnVectors
+ *(.text*)
+ .text.port_yukle
+                0x000000000000026c       0xec ./src/main.o
+                0x000000000000026c                port_yukle
+ .text.lcd_ikili_yazdir
+                0x0000000000000358       0x2c ./src/main.o
+                0x0000000000000358                lcd_ikili_yazdir
+ .text.EN       0x0000000000000384       0x2c ./src/main.o
+                0x0000000000000384                EN
+ .text.resetEN  0x00000000000003b0       0x1c ./src/main.o
+                0x00000000000003b0                resetEN
+ .text.data     0x00000000000003cc       0x3c ./src/main.o
+                0x00000000000003cc                data
+ .text.cmd      0x0000000000000408       0x3c ./src/main.o
+                0x0000000000000408                cmd
+ .text.cmd_8bit
+                0x0000000000000444       0x30 ./src/main.o
+                0x0000000000000444                cmd_8bit
+ .text.temizle  0x0000000000000474       0x18 ./src/main.o
+                0x0000000000000474                temizle
+ .text.lcd_init
+                0x000000000000048c       0x38 ./src/main.o
+                0x000000000000048c                lcd_init
+ .text.ekranyer
+                0x00000000000004c4       0x6c ./src/main.o
+                0x00000000000004c4                ekranyer
+ .text.yazdir   0x0000000000000530       0x30 ./src/main.o
+                0x0000000000000530                yazdir
+ .text.para     0x0000000000000560      0x2ac ./src/main.o
+                0x0000000000000560                para
+ .text.paraust  0x000000000000080c      0x428 ./src/main.o
+                0x000000000000080c                paraust
+ .text.init_UARTstdio
+                0x0000000000000c34       0x50 ./src/main.o
+                0x0000000000000c34                init_UARTstdio
+ .text.main     0x0000000000000c84      0x96c ./src/main.o
+                0x0000000000000c84                main
+ .text.ResetISR
+                0x00000000000015f0       0x6c ./src/startup_gcc.o
+                0x00000000000015f0                ResetISR
+ .text.NmiSR    0x000000000000165c        0x8 ./src/startup_gcc.o
+ .text.FaultISR
+                0x0000000000001664        0x8 ./src/startup_gcc.o
+ .text.IntDefaultHandler
+                0x000000000000166c        0x8 ./src/startup_gcc.o
+ .text.UARTStdioConfig
+                0x0000000000001674       0x70 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+                0x0000000000001674                UARTStdioConfig
+ .text.UARTwrite
+                0x00000000000016e4       0x5c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+                0x00000000000016e4                UARTwrite
+ .text.UARTvprintf
+                0x0000000000001740      0x400 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+                0x0000000000001740                UARTvprintf
+ .text.UARTprintf
+                0x0000000000001b40       0x24 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+                0x0000000000001b40                UARTprintf
+ .text.GPIODirModeSet
+                0x0000000000001b64       0x2e /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001b64                GPIODirModeSet
+ .text.GPIOPadConfigSet
+                0x0000000000001b92      0x130 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001b92                GPIOPadConfigSet
+ .text.GPIOPinTypeUART
+                0x0000000000001cc2       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001cc2                GPIOPinTypeUART
+ *fill*         0x0000000000001cde        0x2 
+ .text.GPIOPinConfigure
+                0x0000000000001ce0       0x4c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001ce0                GPIOPinConfigure
+ .text.SysCtlPeripheralPresent
+                0x0000000000001d2c       0x26 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001d2c                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralEnable
+                0x0000000000001d52       0x22 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001d52                SysCtlPeripheralEnable
+ .text.SysCtlDelay
+                0x0000000000001d74        0x8 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001d74                SysCtlDelay
+ .text.SysCtlClockSet
+                0x0000000000001d7c      0x11c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001d7c                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x0000000000001e98      0x12c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000001e98                SysCtlClockGet
+ .text.UARTEnable
+                0x0000000000001fc4       0x16 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001fc4                UARTEnable
+ .text.UARTDisable
+                0x0000000000001fda       0x1c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001fda                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x0000000000001ff6       0x48 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000001ff6                UARTConfigSetExpClk
+ .text.UARTCharPut
+                0x000000000000203e        0xa /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000203e                UARTCharPut
+ .text          0x0000000000002048       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                0x0000000000002048                __itoa
+                0x0000000000002078                itoa
+ .text          0x000000000000207c       0x84 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                0x000000000000207c                __utoa
+                0x00000000000020fc                utoa
+ *(.rodata*)
+ .rodata        0x0000000000002100      0x1d8 ./src/main.o
+ .rodata        0x00000000000022d8       0x26 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ *fill*         0x00000000000022fe        0x2 
+ .rodata.g_ui32UARTBase
+                0x0000000000002300        0xc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_ui32UARTPeriph
+                0x000000000000230c        0xc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .rodata.g_pui32GPIOBaseAddrs
+                0x0000000000002318       0x90 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Xtals
+                0x00000000000023a8       0x6c /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.str1.4
+                0x0000000000002414       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                                         0x25 (size before relaxing)
+ *(.init)
+ .init          0x000000000000243c        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x000000000000243c                _init
+ .init          0x0000000000002440        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x0000000000002448        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x0000000000002448                _fini
+ .fini          0x000000000000244c        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+                0x0000000000002454                _etext = .
+
+.glue_7         0x0000000000002454        0x0
+ .glue_7        0x0000000000002454        0x0 linker stubs
+
+.glue_7t        0x0000000000002454        0x0
+ .glue_7t       0x0000000000002454        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000002454        0x0
+ .vfp11_veneer  0x0000000000002454        0x0 linker stubs
+
+.v4_bx          0x0000000000002454        0x0
+ .v4_bx         0x0000000000002454        0x0 linker stubs
+
+.iplt           0x0000000000002454        0x0
+ .iplt          0x0000000000002454        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x0000000000002454        0x0
+ .rel.iplt      0x0000000000002454        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.data           0x0000000020000000        0x8 load address 0x0000000000002454
+                0x0000000020000000                _data = .
+                0x0000000000002454                _ldata = LOADADDR (.data)
+ *(vtable)
+ *(.data*)
+ .data.elli     0x0000000020000000        0x4 ./src/main.o
+                0x0000000020000000                elli
+ .data.yuz      0x0000000020000004        0x4 ./src/main.o
+                0x0000000020000004                yuz
+                0x0000000020000008                _edata = .
+
+.igot.plt       0x0000000020000008        0x0 load address 0x000000000000245c
+ .igot.plt      0x0000000020000008        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.bss            0x0000000020000008      0x31c load address 0x000000000000245c
+                0x0000000020000008                _bss = .
+ *(.bss*)
+ .bss.sayi1     0x0000000020000008        0x4 ./src/main.o
+                0x0000000020000008                sayi1
+ .bss.sayi2     0x000000002000000c        0x4 ./src/main.o
+                0x000000002000000c                sayi2
+ .bss.sayi3     0x0000000020000010        0x4 ./src/main.o
+                0x0000000020000010                sayi3
+ .bss.sayi4     0x0000000020000014        0x4 ./src/main.o
+                0x0000000020000014                sayi4
+ .bss.yb        0x0000000020000018        0x4 ./src/main.o
+                0x0000000020000018                yb
+ .bss.a         0x000000002000001c        0x4 ./src/main.o
+                0x000000002000001c                a
+ .bss.b         0x0000000020000020        0x4 ./src/main.o
+                0x0000000020000020                b
+ .bss.c         0x0000000020000024        0x4 ./src/main.o
+                0x0000000020000024                c
+ .bss.pui32Stack
+                0x0000000020000028      0x100 ./src/startup_gcc.o
+ .bss.g_ui32Base
+                0x0000000020000128        0x4 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ *(COMMON)
+ COMMON         0x000000002000012c      0x1f8 ./src/main.o
+                0x000000002000012c                stoksu
+                0x0000000020000140                but5
+                0x0000000020000144                gecici
+                0x0000000020000148                yedekpara
+                0x000000002000014c                but1
+                0x0000000020000150                urunler1
+                0x00000000200001f0                but2
+                0x00000000200001f4                bas2
+                0x0000000020000228                stokcay
+                0x000000002000023c                but6
+                0x0000000020000240                stokcik
+                0x0000000020000254                but4
+                0x0000000020000258                bas1
+                0x000000002000028c                stokbis
+                0x00000000200002a0                stokkahve
+                0x00000000200002b4                bas4
+                0x00000000200002e8                but3
+                0x00000000200002ec                bas3
+                0x0000000020000320                ran
+                0x0000000020000324                _ebss = .
+OUTPUT(Tiva_C_LaunchPad.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x39 ./src/main.o
+ .ARM.attributes
+                0x000000000000005b       0x39 ./src/startup_gcc.o
+ .ARM.attributes
+                0x0000000000000094       0x39 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .ARM.attributes
+                0x00000000000000cd       0x3b /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x0000000000000108       0x3b /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x0000000000000143       0x3b /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x000000000000017e       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .ARM.attributes
+                0x00000000000001b2       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .ARM.attributes
+                0x00000000000001e6       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+.comment        0x0000000000000000       0x9b
+ .comment       0x0000000000000000       0x2b ./src/main.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c ./src/startup_gcc.o
+ .comment       0x000000000000002b       0x2c ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .comment       0x000000000000002b       0x70 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                                         0x71 (size before relaxing)
+ .comment       0x000000000000009b       0x71 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x000000000000009b       0x71 /home/student/Desktop/Embedded-System-Programming-master/SW-EK-TM4C123GXL-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x000000000000009b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .comment       0x000000000000009b       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_info     0x0000000000000000      0xdd9
+ .debug_info    0x0000000000000000      0x5e6 ./src/main.o
+ .debug_info    0x00000000000005e6      0x172 ./src/startup_gcc.o
+ .debug_info    0x0000000000000758      0x38f ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_info    0x0000000000000ae7      0x164 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_info    0x0000000000000c4b      0x18e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_abbrev   0x0000000000000000      0x563
+ .debug_abbrev  0x0000000000000000      0x1da ./src/main.o
+ .debug_abbrev  0x00000000000001da       0xd3 ./src/startup_gcc.o
+ .debug_abbrev  0x00000000000002ad      0x10e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_abbrev  0x00000000000003bb       0xc1 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_abbrev  0x000000000000047c       0xe7 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_aranges  0x0000000000000000      0x150
+ .debug_aranges
+                0x0000000000000000       0x90 ./src/main.o
+ .debug_aranges
+                0x0000000000000090       0x38 ./src/startup_gcc.o
+ .debug_aranges
+                0x00000000000000c8       0x48 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_aranges
+                0x0000000000000110       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_aranges
+                0x0000000000000130       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_ranges   0x0000000000000000       0xe0
+ .debug_ranges  0x0000000000000000       0x80 ./src/main.o
+ .debug_ranges  0x0000000000000080       0x28 ./src/startup_gcc.o
+ .debug_ranges  0x00000000000000a8       0x38 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+
+.debug_macro    0x0000000000000000    0x12749
+ .debug_macro   0x0000000000000000      0x275 ./src/main.o
+ .debug_macro   0x0000000000000275      0x880 ./src/main.o
+ .debug_macro   0x0000000000000af5       0x22 ./src/main.o
+ .debug_macro   0x0000000000000b17       0x87 ./src/main.o
+ .debug_macro   0x0000000000000b9e       0x44 ./src/main.o
+ .debug_macro   0x0000000000000be2       0xfd ./src/main.o
+ .debug_macro   0x0000000000000cdf       0x5e ./src/main.o
+ .debug_macro   0x0000000000000d3d      0x1df ./src/main.o
+ .debug_macro   0x0000000000000f1c     0xb522 ./src/main.o
+ .debug_macro   0x000000000000c43e       0x52 ./src/main.o
+ .debug_macro   0x000000000000c490       0x35 ./src/main.o
+ .debug_macro   0x000000000000c4c5       0x9c ./src/main.o
+ .debug_macro   0x000000000000c561       0x16 ./src/main.o
+ .debug_macro   0x000000000000c577      0x10e ./src/main.o
+ .debug_macro   0x000000000000c685       0x8d ./src/main.o
+ .debug_macro   0x000000000000c712       0x52 ./src/main.o
+ .debug_macro   0x000000000000c764       0x1f ./src/main.o
+ .debug_macro   0x000000000000c783       0x43 ./src/main.o
+ .debug_macro   0x000000000000c7c6       0x20 ./src/main.o
+ .debug_macro   0x000000000000c7e6      0x187 ./src/main.o
+ .debug_macro   0x000000000000c96d      0x30d ./src/main.o
+ .debug_macro   0x000000000000cc7a       0x16 ./src/main.o
+ .debug_macro   0x000000000000cc90       0x29 ./src/main.o
+ .debug_macro   0x000000000000ccb9       0x22 ./src/main.o
+ .debug_macro   0x000000000000ccdb      0xa83 ./src/main.o
+ .debug_macro   0x000000000000d75e       0x16 ./src/main.o
+ .debug_macro   0x000000000000d774       0x35 ./src/main.o
+ .debug_macro   0x000000000000d7a9       0x16 ./src/main.o
+ .debug_macro   0x000000000000d7bf       0x10 ./src/main.o
+ .debug_macro   0x000000000000d7cf       0x10 ./src/main.o
+ .debug_macro   0x000000000000d7df       0x10 ./src/main.o
+ .debug_macro   0x000000000000d7ef       0x1c ./src/main.o
+ .debug_macro   0x000000000000d80b       0x52 ./src/main.o
+ .debug_macro   0x000000000000d85d       0x40 ./src/main.o
+ .debug_macro   0x000000000000d89d       0x10 ./src/main.o
+ .debug_macro   0x000000000000d8ad       0x40 ./src/main.o
+ .debug_macro   0x000000000000d8ed       0xd7 ./src/main.o
+ .debug_macro   0x000000000000d9c4       0x35 ./src/main.o
+ .debug_macro   0x000000000000d9f9       0x1c ./src/main.o
+ .debug_macro   0x000000000000da15       0x10 ./src/main.o
+ .debug_macro   0x000000000000da25       0x16 ./src/main.o
+ .debug_macro   0x000000000000da3b      0x189 ./src/main.o
+ .debug_macro   0x000000000000dbc4       0x67 ./src/main.o
+ .debug_macro   0x000000000000dc2b      0x101 ./src/main.o
+ .debug_macro   0x000000000000dd2c      0x17a ./src/main.o
+ .debug_macro   0x000000000000dea6       0x52 ./src/main.o
+ .debug_macro   0x000000000000def8       0x75 ./src/startup_gcc.o
+ .debug_macro   0x000000000000df6d     0x1342 ./src/startup_gcc.o
+ .debug_macro   0x000000000000f2af       0xd9 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x000000000000f388       0x58 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x000000000000f3e0      0x946 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x000000000000fd26      0x25e ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x000000000000ff84      0x42a ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x00000000000103ae       0x10 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x00000000000103be       0x10 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x00000000000103ce       0xdc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x00000000000104aa     0x1816 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_macro   0x0000000000011cc0      0xa89 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+
+.debug_line     0x0000000000000000      0xeec
+ .debug_line    0x0000000000000000      0x6c3 ./src/main.o
+ .debug_line    0x00000000000006c3      0x1e0 ./src/startup_gcc.o
+ .debug_line    0x00000000000008a3      0x485 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_line    0x0000000000000d28       0xc6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_line    0x0000000000000dee       0xfe /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_str      0x0000000000000000    0x52212
+ .debug_str     0x0000000000000000    0x44242 ./src/main.o
+                                      0x44482 (size before relaxing)
+ .debug_str     0x0000000000044242      0xef3 ./src/startup_gcc.o
+                                       0x8731 (size before relaxing)
+ .debug_str     0x0000000000045135     0xcf54 ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+                                      0x1492a (size before relaxing)
+ .debug_str     0x0000000000052089      0x149 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                                        0x1f2 (size before relaxing)
+ .debug_str     0x00000000000521d2       0x40 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                                        0x1f5 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x410
+ .debug_frame   0x0000000000000000      0x210 ./src/main.o
+ .debug_frame   0x0000000000000210       0x7c ./src/startup_gcc.o
+ .debug_frame   0x000000000000028c       0xfc ./SW-EK-TM4C123GXL-2.1.4.178/utils/uartstdio.o
+ .debug_frame   0x0000000000000388       0x3c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_frame   0x00000000000003c4       0x4c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+
+.debug_loc      0x0000000000000000      0x315
+ .debug_loc     0x0000000000000000      0x161 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_loc     0x0000000000000161      0x1b4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
